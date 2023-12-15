@@ -1,4 +1,4 @@
-module github.com/aws-reserved-instances-cost-comparison
+module github.com/LeanerCloud/aws-reserved-instances-cost-comparisonn
 
 go 1.21.4
 
