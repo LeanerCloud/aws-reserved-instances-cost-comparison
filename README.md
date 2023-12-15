@@ -24,7 +24,7 @@ These instructions will help you set up and run the tool on your local machine f
 ### Installing
 
 ```sh
-go install github.com/yourusername/aws-rds-pricing-tool@latest
+go install github.com/LeanerCloud/aws-reserved-instances-cost-comparison@latest
 ```
 
 ## Usage
