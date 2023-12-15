@@ -6,6 +6,7 @@ require (
 	github.com/LeanerCloud/ec2-instances-info v0.0.0-20231213093645-f15d8d6f62bc
 	github.com/aws/aws-sdk-go-v2/config v1.26.1
 	github.com/aws/aws-sdk-go-v2/service/rds v1.64.5
+	github.com/olekukonko/tablewriter v0.0.5
 )
 
 require (
@@ -23,6 +24,5 @@ require (
 	github.com/aws/smithy-go v1.19.0 // indirect
 	github.com/jmespath/go-jmespath v0.4.0 // indirect
 	github.com/mattn/go-runewidth v0.0.9 // indirect
-	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 )
