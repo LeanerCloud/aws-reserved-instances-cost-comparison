@@ -29,10 +29,10 @@ go install github.com/LeanerCloud/aws-reserved-instances-cost-comparison@latest
 
 ## Usage
 
-Run the command in a shell that has the required AWS environment variables set for authentication with an account.
+Assuming the $GOPATH/bin is present in your $PATH, you can run it using the command below in a shell that has the required AWS environment variables set for authentication with an account.
 
 ```sh
-./aws-rds-pricing-tool -region <aws-region> [-logLevel (info)/error/debug]
+aws-reserved-instances-cost-comparison -region <aws-region>
 ```
 
 ## Related Projects
