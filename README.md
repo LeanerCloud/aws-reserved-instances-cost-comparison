@@ -7,6 +7,11 @@ reserved instance purchases.
 
 The table is formatted as Markdown to make it easy to share in text form.
 
+## Screenshot
+
+![image](https://github.com/LeanerCloud/aws-reserved-instances-cost-comparison/assets/95209/f5897e35-6227-4be7-aae6-2139f06e97e2)
+
+
 ## Getting Started
 
 These instructions will help you set up and run the tool on your local machine for development and testing purposes.
@@ -53,3 +58,4 @@ We welcome contributions! Please submit PRs or create issues for any enhancement
 This project is licensed under the GNU AFFERO GENERAL PUBLIC LICENSE, see the LICENSE file for details.
 
 Copyright (c) 2023 Cristian Magherusan-Stanciu, [LeanerCloud.com](https://www.LeanerCloud.com).
+
